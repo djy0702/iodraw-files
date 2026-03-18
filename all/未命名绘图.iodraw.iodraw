@@ -123,9 +123,6 @@
         <mxCell id="r0ZqwS821GBRjlhvY6jl-53" value="代理预测" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="395" y="168" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r0ZqwS821GBRjlhvY6jl-56" value="" style="swimlane;startSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="375" y="290" width="110" height="50" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
