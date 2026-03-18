@@ -57,12 +57,6 @@
         <mxCell id="r0ZqwS821GBRjlhvY6jl-13" value="终止条件" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="380" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="r0ZqwS821GBRjlhvY6jl-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="364" y="210" as="sourcePoint" />
-            <mxPoint x="414" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
