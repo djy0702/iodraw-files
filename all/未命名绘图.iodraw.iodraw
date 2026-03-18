@@ -136,8 +136,8 @@
         <mxCell id="r0ZqwS821GBRjlhvY6jl-60" value="对候选解进行&lt;div&gt;真实函数评估&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="375" y="315" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="r0ZqwS821GBRjlhvY6jl-72" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=5;strokeColor=#FF1C24;opacity=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="140" width="130" height="240" as="geometry" />
+        <mxCell id="r0ZqwS821GBRjlhvY6jl-72" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=5;strokeColor=#FF430A;opacity=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="365" y="140" width="130" height="240" as="geometry" />
         </mxCell>
         <mxCell id="r0ZqwS821GBRjlhvY6jl-67" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="30" width="10" height="450" as="geometry" />
