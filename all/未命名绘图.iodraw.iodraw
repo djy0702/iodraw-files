@@ -113,6 +113,9 @@
         <mxCell id="r0ZqwS821GBRjlhvY6jl-58" value="代理预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="375" y="155" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="r0ZqwS821GBRjlhvY6jl-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r0ZqwS821GBRjlhvY6jl-59" target="r0ZqwS821GBRjlhvY6jl-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r0ZqwS821GBRjlhvY6jl-59" value="根据预测选出有&lt;div&gt;前景的解&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="375" y="235" width="110" height="50" as="geometry" />
         </mxCell>
