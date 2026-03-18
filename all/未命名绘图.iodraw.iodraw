@@ -72,7 +72,7 @@
         <mxCell id="r0ZqwS821GBRjlhvY6jl-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r0ZqwS821GBRjlhvY6jl-38" target="r0ZqwS821GBRjlhvY6jl-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r0ZqwS821GBRjlhvY6jl-38" value="生成子代&lt;div&gt;（真实函数评估）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="r0ZqwS821GBRjlhvY6jl-38" value="生成子代&lt;div&gt;（仅有决策变量）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r0ZqwS821GBRjlhvY6jl-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r0ZqwS821GBRjlhvY6jl-40" target="r0ZqwS821GBRjlhvY6jl-49">
